@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
+title: Veni,Vidi,Vici
+subtitle: venividivici
+description: 这是描述。。。。。。。
+keywords: 眉骰
+author: Chase Wang
+language: zh-CN
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
