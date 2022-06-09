@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Veni,Vidi,Vici
-subtitle: venividivici
+title: 抚平眉骰
+subtitle:
 description: 这是描述。。。。。。。
 keywords: 眉骰
 author: Chase Wang
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
