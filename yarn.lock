@@ -507,6 +507,21 @@
   dependencies:
     "function-bind" "^1.1.1"
 
+"hexo-abbrlink@^2.2.1":
+  "integrity" "sha512-yvazN7bbrIb7p8QU3nJ/8fbDmir1mFroYvUYcJz5xpc6DtszKggschmqZg6WNUdjhDBFyDwksrIUfwQnw0OOuA=="
+  "resolved" "https://registry.npmjs.org/hexo-abbrlink/-/hexo-abbrlink-2.2.1.tgz"
+  "version" "2.2.1"
+  dependencies:
+    "hexo-front-matter" "^1.0.0"
+    "hexo-fs" "^3.1.0"
+
+"hexo-butterfly-clock@^1.0.7":
+  "integrity" "sha512-pAyVICBOpmjCjg+qwxonSlcPQ8vsoKGWVRCsVXT1RT0hAqB9d1t81Gl7JpA7dWd+xdvkUaWX7QIvjyaGLp1nig=="
+  "resolved" "https://registry.npmjs.org/hexo-butterfly-clock/-/hexo-butterfly-clock-1.0.7.tgz"
+  "version" "1.0.7"
+  dependencies:
+    "pug" "^3.0.0"
+
 "hexo-cli@^4.0.0":
   "integrity" "sha512-NJQYKnD41KUlNZzEyi8wDzPeGhrjwLLTa05dtkwq+lJch+j9idZTh4dgn3w/82o6Q/zygn+ibO1XvihMfFdSfw=="
   "resolved" "https://registry.npmjs.org/hexo-cli/-/hexo-cli-4.2.0.tgz"
@@ -522,6 +537,13 @@
     "minimist" "^1.2.5"
     "resolve" "^1.11.0"
     "tildify" "^2.0.0"
+
+"hexo-front-matter@^1.0.0":
+  "integrity" "sha512-Hn8IIzgWWnxYTekrjnA0rxwWMoQHifyrxKMqVibmFaRKf4AQ2V6Xo13Jiso6CDwYfS+OdA41QS5DG1Y+QXA5gw=="
+  "resolved" "https://registry.npmjs.org/hexo-front-matter/-/hexo-front-matter-1.0.0.tgz"
+  "version" "1.0.0"
+  dependencies:
+    "js-yaml" "^3.13.1"
 
 "hexo-front-matter@^2.0.0":
   "integrity" "sha512-IR3tjAyK2Ga/0a/WDAoNy5+n3ju2/mkuAsCDEeGgGLf5+7kkiOkkG/FrnueuYgz0h2MPfWDLBiDsSTCmB0sLCA=="
@@ -1131,7 +1153,7 @@
   "resolved" "https://registry.npmjs.org/pug-walk/-/pug-walk-2.0.0.tgz"
   "version" "2.0.0"
 
-"pug@^3.0.2":
+"pug@^3.0.0", "pug@^3.0.2":
   "integrity" "sha512-bp0I/hiK1D1vChHh6EfDxtndHji55XP/ZJKwsRqrz6lRia6ZC2OZbdAymlxdVFwd1L70ebrVJw4/eZ79skrIaw=="
   "resolved" "https://registry.npmjs.org/pug/-/pug-3.0.2.tgz"
   "version" "3.0.2"
@@ -1260,7 +1282,7 @@
   "version" "1.1.2"
 
 "sprintf-js@~1.0.2":
-  "integrity" "sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw="
+  "integrity" "sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g=="
   "resolved" "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz"
   "version" "1.0.3"
 
