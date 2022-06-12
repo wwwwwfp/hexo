@@ -893,7 +893,7 @@ giscus:
 archive:
   banner_img: /img/banner/55.jpg
   banner_img_height: 60
-  banner_mask_alpha: 0.8
+  banner_mask_alpha: 0.7
 
 
 #---------------------------
@@ -904,7 +904,7 @@ category:
   enable: true
   banner_img: /img/banner/66.jpg
   banner_img_height: 60
-  banner_mask_alpha: 0.8
+  banner_mask_alpha: 0.7
 
   # 分类的排序字段，前面带减号是倒序，不带减号是正序
   # Sort field for categories, with a minus sign is reverse order
@@ -933,7 +933,7 @@ tag:
   enable: true
   banner_img: /img/banner/44.jpg
   banner_img_height: 60
-  banner_mask_alpha: 0.8
+  banner_mask_alpha: 0.7
   tagcloud:
     min_font: 15
     max_font: 30
