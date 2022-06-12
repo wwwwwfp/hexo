@@ -13,13 +13,13 @@ date: 2017-12-21 11:09:33
 
 **1）到http://monkey.org/~provos/libevent/下找到对应的安装包**
 
-**![](https://img-blog.csdn.net/20171221110401292)** 
+![img.png](img/0004/img.png)
 
 **2）下载**
 
 **#wget[https://github.com/libevent/libevent/releases/download/release-2.1.8-stable/libevent-2.1.8-stable.tar.gz](https://github.com/libevent/libevent/releases/download/release-2.1.8-stable/libevent-2.1.8-stable.tar.gz)**
 
-**![](https://img-blog.csdn.net/20171221110416036)** 
+![img_1.png](img/0004/img_1.png)
 
 **3) 解压配置编译**
 
@@ -31,7 +31,7 @@ date: 2017-12-21 11:09:33
 
 **完成界面**
 
-**![](https://img-blog.csdn.net/20171221110552909)** 
+![img_2.png](img/0004/img_2.png)
 
 **2 、安装memcache**
 
@@ -47,7 +47,7 @@ date: 2017-12-21 11:09:33
 
 **\[root@iZ94kr6cqbrZ memcached-1.5.3\]# make && make install**
 
-![](https://img-blog.csdn.net/20171221110630568)
+![img_3.png](img/0004/img_3.png)
 
 **启用测试连接**
 
@@ -55,4 +55,4 @@ date: 2017-12-21 11:09:33
 
 **\[root@iZ94kr6cqbrZ /\]# telnet 120.24.99.18 11211**
 
-![](https://img-blog.csdn.net/20171221110703703)  
+![img_4.png](img/0004/img_4.png)
