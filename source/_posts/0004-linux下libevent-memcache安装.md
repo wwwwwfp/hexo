@@ -13,7 +13,7 @@ date: 2017-12-21 11:09:33
 
 **1）到http://monkey.org/~provos/libevent/下找到对应的安装包**
 
-![img.png](source/_posts/img/0004/img.png)
+![img.png](img.png)
 
 **2）下载**
 
