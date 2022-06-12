@@ -4,9 +4,9 @@ index_img: /img/cover/04.jpg
 categories:
   - 缓存管理
 tags:
-  - libevent 
+  - libevent
   - memcache
-abbrlink: 7af52029
+abbrlink: 13af38ca
 date: 2017-12-21 11:09:33
 ---
 **1. libevent安装：**
