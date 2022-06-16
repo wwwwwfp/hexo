@@ -11,7 +11,7 @@ date: 2017-12-21 11:09:33
 ---
 **1. libevent安装：**
 **1）到http://monkey.org/~provos/libevent/下找到对应的安装包**
-![](./0004-linux下libevent-memcache安装/img.png)
+![](./img.png)
 **2）下载**
 
 **#wget[https://github.com/libevent/libevent/releases/download/release-2.1.8-stable/libevent-2.1.8-stable.tar.gz](https://github.com/libevent/libevent/releases/download/release-2.1.8-stable/libevent-2.1.8-stable.tar.gz)**
