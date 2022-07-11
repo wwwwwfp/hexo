@@ -2,8 +2,8 @@
 title: JAVA 线程 Synchronized Volatile
 index_img: /img/cover/14.jpg
 categories:
-  - - Java基础
-  - - 多线程
+  - [Java基础]
+  - [多线程]
 tags:
   - 锁
   - Synchronized
