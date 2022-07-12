@@ -1,5 +1,5 @@
 ---
-title: salesforce Apex 变量、集合基础知识
+title: Salesforce Apex 变量、集合基础知识
 index_img: /img/cover/21.jpg
 categories:
   - Salesforce
