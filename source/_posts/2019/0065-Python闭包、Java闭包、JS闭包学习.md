@@ -1,5 +1,5 @@
 ---
-title: Python闭包、Java闭包、JS闭包学习
+title: Python学习——Python闭包、Java闭包、JS闭包学习
 index_img: /img/cover/05.jpg
 categories:
   - - Java基础
