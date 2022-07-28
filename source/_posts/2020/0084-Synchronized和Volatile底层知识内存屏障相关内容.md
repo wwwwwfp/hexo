@@ -40,9 +40,7 @@ If the thread already owns the monitor associated with objectref, it reenters th
 If another thread already owns the monitor associated with objectref, the thread blocks until the monitor’s entry count is zero, then tries again to gain ownership.
 monitorexit
 The thread decrements the entry count of the monitor associated with objectref. If as a result the value of the entry count is zero, the thread exits the monitor and is no longer its owner. Other threads that are blocking to enter the monitor are allowed to attempt to do so.
-————————————————
-版权声明：本文为CSDN博主「眉头」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qq_31482599/article/details/108170767
+
 
 **大致意思如下：**
 
